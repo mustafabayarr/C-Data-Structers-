@@ -1,2 +1,5 @@
-# C-Data-Structures
-implementations data structures in C
+# Data-Structures in C
+
+> Implementations data structures in C
+
+`Clone the repository by clicking the green button above`
